@@ -30,7 +30,7 @@ Conventions:
 
 - Couplings are rescaled as y → 4πy and λ → 16π²λ.
 - `Tr` is the fermion-loop trace (tr 1 × flavor trace), normalized so that γ_φ^(1)ab = ½ Tr(yᵃyᵇ). N_f four-component Dirac fermions have Tr 1 = 4N_f.
-- The symmetry is δψ = iTψ, δφ = tφ, with Ward identity i[yᵃ,T] = t_ab yᵇ. The paper writes (T, t) as (Θ, θ).
+- The code uses $(t,T)$ for the scalar and fermion symmetry generators, respectively. They act as $\delta\phi = t\phi$ and $\delta\psi = iT\psi$ and obey the Ward identity $i[y^a,T] = t_{ab}y^b$. The paper writes $(\theta,\Theta)$ for this pair to distinguish the fermion generator from the stress tensor $T_{\mu\nu}$.
 - C_{T,S} = d/((d−1)S_d²) and C_{J,ψ} = 1/S_d².
 
 At any fixed point, through O(ε²):
