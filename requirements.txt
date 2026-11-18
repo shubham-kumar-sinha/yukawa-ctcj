@@ -1,0 +1,8 @@
+numpy>=1.24
+sympy>=1.12
+scipy>=1.10
+pynauty>=2.8      # four-loop generator, orbits and J basis candidates
+matplotlib>=3.7   # the d = 3 figure
+opt_einsum>=3.3   # matrix/ (matrix GNY models)
+# optional, only to recompute the Feynman integrals (see INSTALL_FORM.md):
+# form-bin==5.0.2

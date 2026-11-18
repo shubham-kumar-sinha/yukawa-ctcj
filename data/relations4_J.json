@@ -1,0 +1,363 @@
+{
+ "y6": {
+  "Tr(TTababcc)": {
+   "Tr(TTaabcbc)": "1"
+  },
+  "Tr(TTabbacc)": {
+   "Tr(TTaabccb)": "1"
+  },
+  "Tr(TaTbbcac)": {
+   "Tr(TTaabcbc)": "1/2",
+   "Tr(TTabaccb)": "-1/2",
+   "Tr(TTabbcac)": "1/2",
+   "Tr(TTabccab)": "-1/2",
+   "Tr(TaTbaccb)": "1"
+  },
+  "Tr(TaTbbcca)": {
+   "Tr(TaTabbcc)": "1"
+  },
+  "Tr(TaTbcbac)": {
+   "Tr(TTabcacb)": "-1/2",
+   "Tr(TTabcbac)": "1/2",
+   "Tr(TaTbacbc)": "1"
+  },
+  "Tr(TaTbcbca)": {
+   "Tr(TaTabcbc)": "1"
+  },
+  "Tr(TaTbccab)": {
+   "Tr(TTaabcbc)": "-1/2",
+   "Tr(TTabaccb)": "-1/2",
+   "Tr(TTabbcac)": "1/2",
+   "Tr(TTabccab)": "1/2",
+   "Tr(TaTbabcc)": "1"
+  },
+  "Tr(TaTbccba)": {
+   "Tr(TaTabccb)": "1"
+  },
+  "Tr(TaaTbbcc)": {
+   "Tr(TTaabbcc)": "1"
+  },
+  "Tr(TaaTbcbc)": {
+   "Tr(TTaabcbc)": "1"
+  },
+  "Tr(TaaTbccb)": {
+   "Tr(TTaabccb)": "1"
+  },
+  "Tr(TaabTbcc)": {
+   "Tr(TaTabbcc)": "1"
+  },
+  "Tr(TaabTcbc)": {
+   "Tr(TaTbabcc)": "1"
+  },
+  "Tr(TaabTccb)": {
+   "Tr(TaTbbacc)": "1"
+  },
+  "Tr(TaabcTbc)": {
+   "Tr(TTaabcbc)": "-1/2",
+   "Tr(TTabaccb)": "-1/2",
+   "Tr(TTabbcac)": "1/2",
+   "Tr(TTabccab)": "-1/2",
+   "Tr(TaTbabcc)": "1",
+   "Tr(TaTbaccb)": "1"
+  },
+  "Tr(TabTabcc)": {
+   "Tr(TTaabcbc)": "-1/2",
+   "Tr(TTabaccb)": "-1/2",
+   "Tr(TTabbcac)": "1/2",
+   "Tr(TTabccab)": "-1/2",
+   "Tr(TaTbabcc)": "1",
+   "Tr(TaTbaccb)": "1"
+  },
+  "Tr(TabTacbc)": {
+   "Tr(TTabcacb)": "-1/2",
+   "Tr(TTabcbac)": "-1/2",
+   "Tr(TaTbacbc)": "1",
+   "Tr(TaTbcacb)": "1"
+  },
+  "Tr(TabTaccb)": {
+   "Tr(TTabaccb)": "-1",
+   "Tr(TaTbabcc)": "1",
+   "Tr(TaTbaccb)": "1"
+  },
+  "Tr(TabTbacc)": {
+   "Tr(TaabcTcb)": "1"
+  },
+  "Tr(TabTcacb)": {
+   "Tr(TTabcacb)": "-1",
+   "Tr(TaTbacbc)": "1",
+   "Tr(TaTbcacb)": "1"
+  },
+  "Tr(TabaTbcc)": {
+   "Tr(TTaabcbc)": "1/2",
+   "Tr(TTabaccb)": "-1/2",
+   "Tr(TTabbcac)": "1/2",
+   "Tr(TTabccab)": "-1/2",
+   "Tr(TaTbaccb)": "1"
+  },
+  "Tr(TabaTcbc)": {
+   "Tr(TTabacbc)": "1",
+   "Tr(TTabcacb)": "-1/2",
+   "Tr(TTabcbac)": "-1/2",
+   "Tr(TaTbcacb)": "1"
+  },
+  "Tr(TabbTacc)": {
+   "Tr(TaTbbacc)": "1"
+  },
+  "Tr(TabcTabc)": {
+   "Tr(TTabcabc)": "-1",
+   "Tr(TaTbcabc)": "1",
+   "Tr(TabTcabc)": "1"
+  },
+  "Tr(TabcTacb)": {
+   "Tr(TTabcacb)": "-1",
+   "Tr(TaTbcacb)": "1",
+   "Tr(TabTcbac)": "1"
+  },
+  "Tr(TabcTbac)": {
+   "Tr(TTabcbac)": "-1",
+   "Tr(TaTbcacb)": "1",
+   "Tr(TabTcbac)": "1"
+  },
+  "Tr(TabcTbca)": {
+   "Tr(TaTabcbc)": "-1",
+   "Tr(TabTbcac)": "1",
+   "Tr(TabTcbca)": "1"
+  },
+  "Tr(TTabcc)Tr(ab)": {
+   "Tr(TTaabc)Tr(bc)": "1"
+  },
+  "Tr(TaTbbc)Tr(ac)": {
+   "Tr(TTaabc)Tr(bc)": "1/2",
+   "Tr(TTab)Tr(abcc)": "-1/2",
+   "Tr(TTab)Tr(accb)": "-1/2",
+   "Tr(TTabbc)Tr(ac)": "1/2",
+   "Tr(TaTb)Tr(abcc)": "1"
+  },
+  "Tr(TaTbca)Tr(bc)": {
+   "Tr(TaTabc)Tr(bc)": "1"
+  },
+  "Tr(TaTbcb)Tr(ac)": {
+   "Tr(TTab)Tr(acbc)": "-1",
+   "Tr(TTabac)Tr(bc)": "1/2",
+   "Tr(TTabcb)Tr(ac)": "1/2",
+   "Tr(TaTb)Tr(acbc)": "1"
+  },
+  "Tr(TaTbcc)Tr(ab)": {
+   "Tr(TTaabc)Tr(bc)": "1/2",
+   "Tr(TTab)Tr(abcc)": "-1/2",
+   "Tr(TTab)Tr(accb)": "-1/2",
+   "Tr(TTabbc)Tr(ac)": "1/2",
+   "Tr(TaTb)Tr(abcc)": "1"
+  },
+  "Tr(TaaTbc)Tr(bc)": {
+   "Tr(TTaabc)Tr(bc)": "1"
+  },
+  "Tr(Taabc)Tr(Tcb)": {
+   "Tr(TTaabc)Tr(bc)": "1/2",
+   "Tr(TTab)Tr(abcc)": "1/2",
+   "Tr(TTab)Tr(accb)": "1/2",
+   "Tr(TTabbc)Tr(ac)": "-1/2",
+   "Tr(TaTb)Tr(abcc)": "-1",
+   "Tr(Taabc)Tr(Tbc)": "1"
+  },
+  "Tr(Tab)Tr(Tabcc)": {
+   "Tr(Taabc)Tr(Tbc)": "1"
+  },
+  "Tr(Tab)Tr(Taccb)": {
+   "Tr(TTaabc)Tr(bc)": "1/2",
+   "Tr(TTab)Tr(abcc)": "1/2",
+   "Tr(TTab)Tr(accb)": "-1/2",
+   "Tr(TTabbc)Tr(ac)": "-1/2",
+   "Tr(Taabc)Tr(Tbc)": "1"
+  },
+  "Tr(Tab)Tr(Tbacc)": {
+   "Tr(TTaabc)Tr(bc)": "1/2",
+   "Tr(TTab)Tr(abcc)": "1/2",
+   "Tr(TTab)Tr(accb)": "1/2",
+   "Tr(TTabbc)Tr(ac)": "-1/2",
+   "Tr(TaTb)Tr(abcc)": "-1",
+   "Tr(Taabc)Tr(Tbc)": "1"
+  },
+  "Tr(Tab)Tr(Tbcac)": {
+   "Tr(TTab)Tr(acbc)": "1",
+   "Tr(TTabac)Tr(bc)": "-1/2",
+   "Tr(TTabcb)Tr(ac)": "1/2",
+   "Tr(TaTb)Tr(acbc)": "-1",
+   "Tr(Tab)Tr(Tacbc)": "1"
+  },
+  "Tr(Tab)Tr(Tbcca)": {
+   "Tr(TTab)Tr(abcc)": "1",
+   "Tr(TaTb)Tr(abcc)": "-1",
+   "Tr(Taabc)Tr(Tbc)": "1"
+  },
+  "Tr(Tab)Tr(Tcacb)": {
+   "Tr(TTabac)Tr(bc)": "-1/2",
+   "Tr(TTabcb)Tr(ac)": "1/2",
+   "Tr(Tab)Tr(Tacbc)": "1"
+  },
+  "Tr(Tab)Tr(Tcbca)": {
+   "Tr(TTab)Tr(acbc)": "1",
+   "Tr(TaTb)Tr(acbc)": "-1",
+   "Tr(Tab)Tr(Tacbc)": "1"
+  },
+  "Tr(TabTac)Tr(bc)": {
+   "Tr(TTab)Tr(acbc)": "-1",
+   "Tr(TTabac)Tr(bc)": "-1/2",
+   "Tr(TTabcb)Tr(ac)": "1/2",
+   "Tr(TaTb)Tr(acbc)": "1",
+   "Tr(TaTbac)Tr(bc)": "1"
+  },
+  "Tr(TabTbc)Tr(ac)": {
+   "Tr(TaTabc)Tr(bc)": "1",
+   "Tr(Tab)Tr(Tcabc)": "1",
+   "Tr(Tab)Tr(Tcbac)": "-1"
+  },
+  "Tr(TabTcb)Tr(ac)": {
+   "Tr(TTab)Tr(acbc)": "-1",
+   "Tr(TTabac)Tr(bc)": "1/2",
+   "Tr(TTabcb)Tr(ac)": "-1/2",
+   "Tr(TaTb)Tr(acbc)": "1",
+   "Tr(TaTbac)Tr(bc)": "1"
+  },
+  "Tr(Tab)Tr(Tbc)Tr(ac)": {
+   "Tr(TTab)Tr(ac)Tr(bc)": "1",
+   "Tr(TaTb)Tr(ac)Tr(bc)": "-1",
+   "Tr(Tab)Tr(Tac)Tr(bc)": "1"
+  },
+  "Tr(Tab)Tr(Tcb)Tr(ac)": {
+   "Tr(Tab)Tr(Tac)Tr(bc)": "1"
+  }
+ },
+ "y4lam": {},
+ "y2lam2": {
+  "t_ab lam_abcd lam_cdef Tr(Tef)": {},
+  "t_ab lam_acde lam_bcdf Tr(Tef)": {
+   "lam_abcd lam_abce Tr(TTde)": "I/3",
+   "lam_abcd lam_abce Tr(TdTe)": "-I/3"
+  },
+  "t_ab lam_acde lam_bcdf Tr(Tfe)": {
+   "lam_abcd lam_abce Tr(TTde)": "-I/3",
+   "lam_abcd lam_abce Tr(TdTe)": "I/3"
+  },
+  "t_ab t_ca lam_bcde lam_defg Tr(fg)": {
+   "t_ab t_ac lam_bcde lam_defg Tr(fg)": "-1"
+  },
+  "t_ab t_ca lam_bdef lam_cdeg Tr(fg)": {
+   "t_ab t_ac lam_bdef lam_cdeg Tr(fg)": "-1"
+  },
+  "t_ab t_cb lam_acde lam_defg Tr(fg)": {
+   "t_ab t_ac lam_bcde lam_defg Tr(fg)": "1"
+  },
+  "t_ab t_cb lam_adef lam_cdeg Tr(fg)": {
+   "t_ab t_ac lam_bdef lam_cdeg Tr(fg)": "1"
+  },
+  "t_ab t_cd lam_abce lam_defg Tr(fg)": {},
+  "t_ab t_cd lam_abde lam_cefg Tr(fg)": {},
+  "t_ab t_cd lam_abef lam_cdeg Tr(fg)": {},
+  "t_ab t_cd lam_acef lam_bdeg Tr(fg)": {
+   "lam_abcd lam_abce Tr(TTde)": "-1/3",
+   "lam_abcd lam_abce Tr(TdTe)": "1/3",
+   "t_ab t_ac lam_bdef lam_cdeg Tr(fg)": "1/2"
+  },
+  "t_ab t_cd lam_adef lam_bceg Tr(fg)": {
+   "lam_abcd lam_abce Tr(TTde)": "1/3",
+   "lam_abcd lam_abce Tr(TdTe)": "-1/3",
+   "t_ab t_ac lam_bdef lam_cdeg Tr(fg)": "-1/2"
+  },
+  "t_ab lam_acde lam_cdef Tr(Tbf)": {
+   "lam_abcd lam_abce Tr(TTde)": "-I",
+   "lam_abcd lam_abce Tr(TdTe)": "I"
+  },
+  "t_ab lam_acde lam_cdef Tr(Tfb)": {
+   "lam_abcd lam_abce Tr(TTde)": "I",
+   "lam_abcd lam_abce Tr(TdTe)": "-I"
+  },
+  "t_ab lam_bcde lam_cdef Tr(Taf)": {
+   "lam_abcd lam_abce Tr(TTde)": "I",
+   "lam_abcd lam_abce Tr(TdTe)": "-I"
+  },
+  "t_ab lam_bcde lam_cdef Tr(Tfa)": {
+   "lam_abcd lam_abce Tr(TTde)": "-I",
+   "lam_abcd lam_abce Tr(TdTe)": "I"
+  },
+  "t_ab t_ac lam_bdef lam_defg Tr(cg)": {
+   "lam_abcd lam_abce Tr(TTde)": "2",
+   "lam_abcd lam_abce Tr(TdTe)": "-2"
+  },
+  "t_ab t_ca lam_bdef lam_defg Tr(cg)": {
+   "lam_abcd lam_abce Tr(TTde)": "-2",
+   "lam_abcd lam_abce Tr(TdTe)": "2"
+  },
+  "t_ab t_ca lam_cdef lam_defg Tr(bg)": {
+   "lam_abcd lam_abce Tr(TTde)": "-2",
+   "lam_abcd lam_abce Tr(TdTe)": "2"
+  },
+  "t_ab t_cb lam_adef lam_defg Tr(cg)": {
+   "lam_abcd lam_abce Tr(TTde)": "2",
+   "lam_abcd lam_abce Tr(TdTe)": "-2"
+  },
+  "t_ab t_cd lam_abef lam_cefg Tr(dg)": {},
+  "t_ab t_cd lam_abef lam_defg Tr(cg)": {},
+  "t_ab t_cd lam_acef lam_befg Tr(dg)": {
+   "lam_abcd lam_abce Tr(TTde)": "2/3",
+   "lam_abcd lam_abce Tr(TdTe)": "-2/3"
+  },
+  "t_ab t_cd lam_adef lam_befg Tr(cg)": {
+   "lam_abcd lam_abce Tr(TTde)": "-2/3",
+   "lam_abcd lam_abce Tr(TdTe)": "2/3"
+  },
+  "t_ab t_cd lam_aefg lam_bcef Tr(dg)": {
+   "lam_abcd lam_abce Tr(TTde)": "-2/3",
+   "lam_abcd lam_abce Tr(TdTe)": "2/3"
+  },
+  "t_ab t_cd lam_aefg lam_bdef Tr(cg)": {
+   "lam_abcd lam_abce Tr(TTde)": "2/3",
+   "lam_abcd lam_abce Tr(TdTe)": "-2/3"
+  },
+  "t_ab t_cd lam_aefg lam_cefg Tr(bd)": {
+   "lam_abcd lam_abce Tr(TTde)": "2",
+   "lam_abcd lam_abce Tr(TdTe)": "-2"
+  },
+  "t_ab t_cd lam_aefg lam_defg Tr(bc)": {
+   "lam_abcd lam_abce Tr(TTde)": "-2",
+   "lam_abcd lam_abce Tr(TdTe)": "2"
+  },
+  "t_ab t_cd lam_befg lam_defg Tr(ac)": {
+   "lam_abcd lam_abce Tr(TTde)": "2",
+   "lam_abcd lam_abce Tr(TdTe)": "-2"
+  }
+ },
+ "lam3": {
+  "t_ab t_ca lam_bcde lam_dfgh lam_efgh": {
+   "t_ab t_ac lam_bcde lam_dfgh lam_efgh": "-1"
+  },
+  "t_ab t_ca lam_bdef lam_cdgh lam_efgh": {
+   "t_ab t_ac lam_bdef lam_cdgh lam_efgh": "-1"
+  },
+  "t_ab t_cb lam_acde lam_dfgh lam_efgh": {
+   "t_ab t_ac lam_bcde lam_dfgh lam_efgh": "1"
+  },
+  "t_ab t_cb lam_adef lam_cdgh lam_efgh": {
+   "t_ab t_ac lam_bdef lam_cdgh lam_efgh": "1"
+  },
+  "t_ab t_cd lam_abce lam_dfgh lam_efgh": {},
+  "t_ab t_cd lam_abde lam_cfgh lam_efgh": {},
+  "t_ab t_cd lam_abef lam_cdgh lam_efgh": {},
+  "t_ab t_cd lam_abef lam_cegh lam_dfgh": {},
+  "t_ab t_cd lam_acef lam_begh lam_dfgh": {
+   "t_ab t_ac lam_bdef lam_cdgh lam_efgh": "1/2",
+   "t_ab t_cd lam_acef lam_bdgh lam_efgh": "-1/2"
+  },
+  "t_ab t_cd lam_adef lam_bcgh lam_efgh": {
+   "t_ab t_cd lam_acef lam_bdgh lam_efgh": "-1"
+  },
+  "t_ab t_cd lam_aefg lam_bceh lam_dfgh": {
+   "t_ab t_ac lam_bdef lam_cdgh lam_efgh": "-1/2",
+   "t_ab t_cd lam_acef lam_bdgh lam_efgh": "1/2"
+  },
+  "t_ab t_cd lam_aefg lam_bdeh lam_cfgh": {
+   "t_ab t_ac lam_bdef lam_cdgh lam_efgh": "1/2",
+   "t_ab t_cd lam_acef lam_bdgh lam_efgh": "-1/2"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the accompanying paper and this repository."
+title: "yukawa-ctcj: C_T and C_J of general scalar-fermion CFTs in d = 4 - epsilon"
+version: 1.4.0
+date-released: 2026-11-15
+license: MIT
+authors:
+  - family-names: Prakash
+    given-names: Shiroman
+    affiliation: "Dayalbagh Educational Institute"
+  - family-names: Sinha
+    given-names: Shubham
+    affiliation: "Dayalbagh Educational Institute"
+preferred-citation:
+  type: article
+  title: "C_T and C_J of general scalar-fermion conformal field theories in d = 4 - epsilon"
+  authors:
+    - family-names: Prakash
+      given-names: Shiroman
+    - family-names: Sinha
+      given-names: Shubham
+  year: 2026
+  notes: "arXiv identifier to be added"
