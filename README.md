@@ -1,6 +1,6 @@
 # yukawa-ctcj
 
-**C_T and C_J of general scalar–fermion (Yukawa) CFTs in d = 4 − ε, both through O(ε³).**
+**$C_T$ and $C_J$ of general scalar–fermion (Yukawa) CFTs in $d = 4 - \varepsilon$, both through $O(\varepsilon^3)$.**
 
 Authors: Shiroman Prakash and Shubham Kumar Sinha. If you use this code or its results, please cite the paper and this repository as described in [`CITATION.cff`](CITATION.cff).
 
