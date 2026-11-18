@@ -5,4 +5,4 @@ Pipeline: diagrams (Wick contractions + flavour invariants) -> FORM traces/proje
 -> fixed-point form expressed in coupling-tensor invariants.
 """
 __version__ = "1.2.0"
-__author__ = "Shiroman Prakash, Shubham Sinha"
+__author__ = "Shiroman Prakash, Shubham Kumar Sinha"

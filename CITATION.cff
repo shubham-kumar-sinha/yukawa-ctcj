@@ -9,7 +9,7 @@ authors:
     given-names: Shiroman
     affiliation: "Dayalbagh Educational Institute"
   - family-names: Sinha
-    given-names: Shubham
+    given-names: Shubham Kumar
     affiliation: "Dayalbagh Educational Institute"
 preferred-citation:
   type: article
@@ -18,6 +18,6 @@ preferred-citation:
     - family-names: Prakash
       given-names: Shiroman
     - family-names: Sinha
-      given-names: Shubham
+      given-names: Shubham Kumar
   year: 2026
   notes: "arXiv identifier to be added"
