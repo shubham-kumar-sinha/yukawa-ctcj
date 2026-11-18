@@ -7,7 +7,7 @@ Authors: Shiroman Prakash and Shubham Sinha. If you use this code or its results
 This repository computes the stress-tensor and current two-point coefficients at *any* fixed point of the general renormalizable scalar–fermion theory
 
 $$
-\mathcal L=\tfrac12(\partial\phi_a)^2+\bar\psi\,\partial\!\!\!/\,\psi+\phi_a\bar\psi y^a\psi+\tfrac1{24}\lambda_{abcd}\phi_a\phi_b\phi_c\phi_d,
+\mathcal L=\tfrac12(\partial\phi_a)^2+\bar\psi \gamma^\mu \partial_\mu \psi+\phi_a\bar\psi y^a\psi+\tfrac1{24}\lambda_{abcd}\phi_a\phi_b\phi_c\phi_d,
 $$
 
 in the conventions of Jack, Osborn and Steudtner ([arXiv:2301.10903](https://arxiv.org/abs/2301.10903)). The results come from all diagrams of ⟨TT⟩ and ⟨JJ⟩ through four loops, reduced with [FORM](https://github.com/form-dev/form) and [Forcer](https://github.com/benruijl/forcer). They are expressed through coupling-tensor invariants with ε-independent rational coefficients.
