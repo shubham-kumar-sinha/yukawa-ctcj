@@ -20,4 +20,7 @@ preferred-citation:
     - family-names: Sinha
       given-names: Shubham Kumar
   year: 2026
-  notes: "arXiv identifier to be added"
+  url: "https://arxiv.org/abs/2611.25055"
+  identifiers:
+    - type: other
+      value: "arXiv:2611.25055"
